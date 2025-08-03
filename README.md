@@ -6,9 +6,10 @@ ZayvinShey Cloud - DevOps 可视化云平台
 
 ## ✨ 项目愿景
 
-> “在自动化与监控中发现美，在代码与系统里表达灵魂。”
+> “目前只是想完成2025-2027段毕业设计”
+> “致热爱开源的理想主义者 以及每一个执着于云端构建的你”
 
-ZayvinShey Cloud 并非仅是技术工具，更是一个数字身份的延伸。它鼓励用户用可视化表达系统状态，用审美控制 DevOps 流程。
+ZayvinShey Cloud 基于Kubernetes的DevOps
 
 ---
 
@@ -31,6 +32,5 @@ ZayvinShey Cloud 并非仅是技术工具，更是一个数字身份的延伸。
 - 数据存储：SQLite / JSON
 
 ---
-
-## 📁 项目结构预览
+![ZayvinShey Logo](branding/Begin.png)
 
